@@ -40,6 +40,8 @@
     "objectsAnswers",
     "recursionAnswers",
     "regexAnswers",
-    "stringsAnswers"
+    "stringsAnswers",
+    "$",
+    "_"
   ]
 }
